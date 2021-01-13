@@ -1,0 +1,6 @@
+name: GitLab Runner Packer Template Test
+title: Test Base OS packages & configuration
+summary: GitLab Runner Packer Template Test
+version: 0.1.0
+supports:
+  platform: os
